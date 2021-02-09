@@ -2,6 +2,7 @@
 A complete Queen album generator using markovify
 
 # How to use
+
  - Make sure your Python installation is up-to-date
  
  - From the command line run `pip install markovify`
