@@ -11,6 +11,4 @@ A complete Queen album generator using markovify
  
  - Run the script (`queen.py`) from the command line
  
- - Don't mind the french titles of the files.
- 
  - Enjoy!
