@@ -14,7 +14,7 @@ script_dir = os.path.split(script_path)[0]
 queentxt_path = "queen.txt"
 queen_path = os.path.join(script_dir, queentxt_path)
 
-titretxt_path = "titresqueen.txt"
+titretxt_path = "queentitle.txt"
 titre_path = os.path.join(script_dir, titretxt_path)
 
 albumtxt_path = "album.txt"
