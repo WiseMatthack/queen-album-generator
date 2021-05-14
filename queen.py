@@ -98,6 +98,7 @@ def chansonB():
 print("Queen Album Generator - Made by Matthack")
 print("Album name:", album_model.make_sentence(tries=1000)) # Generates an album title
 print("Year:", random.randint(1973, 1991)) # Generates a year
+print("Number of tracks:", nbfaceA + nbfaceB)
 print("Total length of the album :",convert(maxfaceA + maxfaceB))
 print(" ")
 print("SIDE A -",nbfaceA,"songs --- Duration :",convert(maxfaceA)) # Prints the duration and the number of songs on side A
